@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e3d4a633f30e70744c7455b98b922ef9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93e01ad8927b50584add557583c6f4cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3c4271f0c1f109732459ca231d448f60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a43644f876a85e1a7bba162f3bf2002\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7509633f0c717fa9e8cc3ae8f618a1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1709d904b981dd9beb599b627a103f4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b3889c95b1c349bc31665049d437c86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ef33775a369cbc9f96ec390f6c455446\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb5fa0dda66804017a4811a73f41e4e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2fa489afc6409c742bcd7e7f76a96229\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d8a4d97769ca74dbc85383d9fc1c0cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\48519cc5c02c2456ff2013fa6a313a48\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93e01ad8927b50584add557583c6f4cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93e01ad8927b50584add557583c6f4cf\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.andrecarvalli_quizapp.MainActivity
+ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e3d4a633f30e70744c7455b98b922ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e3d4a633f30e70744c7455b98b922ef9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93e01ad8927b50584add557583c6f4cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93e01ad8927b50584add557583c6f4cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3c4271f0c1f109732459ca231d448f60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3c4271f0c1f109732459ca231d448f60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a43644f876a85e1a7bba162f3bf2002\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4a43644f876a85e1a7bba162f3bf2002\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7509633f0c717fa9e8cc3ae8f618a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7509633f0c717fa9e8cc3ae8f618a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1709d904b981dd9beb599b627a103f4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1709d904b981dd9beb599b627a103f4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b3889c95b1c349bc31665049d437c86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b3889c95b1c349bc31665049d437c86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ef33775a369cbc9f96ec390f6c455446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ef33775a369cbc9f96ec390f6c455446\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb5fa0dda66804017a4811a73f41e4e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\eb5fa0dda66804017a4811a73f41e4e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2fa489afc6409c742bcd7e7f76a96229\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2fa489afc6409c742bcd7e7f76a96229\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d8a4d97769ca74dbc85383d9fc1c0cc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d8a4d97769ca74dbc85383d9fc1c0cc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\48519cc5c02c2456ff2013fa6a313a48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Carvalli Andre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\48519cc5c02c2456ff2013fa6a313a48\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndreCarvalli_QuizApp\app\src\main\AndroidManifest.xml
